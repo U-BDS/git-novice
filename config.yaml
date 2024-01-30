@@ -60,12 +60,12 @@ contact: 'team@carpentries.org'
 # Order of episodes in your lesson
 episodes: 
 - 01-basics.md
-- 02-setup.md
-- 03-create.md
-- 04-changes.md
-- 05-history.md
-- 06-ignore.md
-- 07-github.md
+- 02-github.md
+- 03-setup.md
+- 04-create.md
+- 05-changes.md
+- 06-history.md
+- 07-ignore.md
 - 08-collab.md
 - 09-conflict.md
 - 10-open.md
@@ -89,6 +89,6 @@ profiles:
 # sandpaper and varnish versions) should live
 
 
-url: 'https://swcarpentry.github.io/git-novice'
+url: https://swcarpentry.github.io/git-novice
 analytics: carpentries
 lang: en
